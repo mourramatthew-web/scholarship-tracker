@@ -1,0 +1,112 @@
+{
+  "hungary": {
+    "name": "Hungary",
+    "slug": "hungary",
+    "accent": "#FF2D6F",
+    "accent_soft": "#FF7AA8",
+    "rating": "strong",
+    "headline": "The only one of the four with a national, fully funded bachelor scholarship that Palestine is formally a partner country of.",
+    "reality_check": "Stipendium Hungaricum is the realistic route. It funds tuition, a monthly stipend, dormitory and medical insurance, it runs at bachelor level, it is taught in English, and both Computer Science Engineering and Mechatronical Engineering BSc are in the catalogue. You must be nominated by the Palestinian Ministry of Education and Higher Education — you cannot bypass them.",
+    "language_note": "All programmes listed here are taught fully in English. No Hungarian required for admission.",
+    "code": "HU"
+  },
+  "italy": {
+    "name": "Italy",
+    "slug": "italy",
+    "accent": "#00C77F",
+    "accent_soft": "#5CE8B1",
+    "rating": "strong",
+    "headline": "Two separate routes: a scholarship written specifically for Palestinian students, and regional right-to-study grants that are need-based and nationality-blind.",
+    "reality_check": "IUPALS is the Palestine-specific one and it explicitly covers bachelor's degrees. Separately, every Italian region runs a 'Diritto allo Studio' (DSU) grant that pays tuition, a cash allowance, housing and meals purely on family income — international students qualify, and this is how most low-income international students at Politecnico di Milano and Torino actually study for free. Apply to both. The MAECI government scholarship is real and open to Palestinians, but it does not fund bachelor's degrees.",
+    "language_note": "Politecnico di Milano and Politecnico di Torino both teach engineering BSc tracks in English. Many other Italian universities teach bachelor's in Italian only — check per programme.",
+    "code": "IT"
+  },
+  "spain": {
+    "name": "Spain",
+    "slug": "spain",
+    "accent": "#FF8A00",
+    "accent_soft": "#FFC24D",
+    "rating": "moderate",
+    "headline": "No national fully funded bachelor scholarship for incoming internationals — but several universities run dedicated Palestine / Gaza emergency programmes that add up to full funding.",
+    "reality_check": "The Spanish state grant (Beca MEC) requires legal residence in Spain, and Fundación Carolina and MAEC-AECID are postgraduate. What does exist is a wave of university-level 'acogida' (welcome/refuge) programmes created for Palestinian and Gazan students: 100% tuition exemption plus accommodation, meals and Spanish courses. They are smaller, they re-open each year on their own timetable, and several have been hit by visa/exit delays out of Gaza — plan for that.",
+    "language_note": "This is the big practical barrier. Most Spanish bachelor engineering degrees are taught in Spanish and require B2–C1 plus a UNEDasiss credential to convert your Tawjihi. Budget a year for language unless you find an English-taught track.",
+    "code": "ES"
+  },
+  "switzerland": {
+    "name": "Switzerland",
+    "slug": "switzerland",
+    "accent": "#FF3B30",
+    "accent_soft": "#FF8A80",
+    "rating": "weak",
+    "headline": "Be told this plainly: there is no fully funded bachelor scholarship in Switzerland for a student applying from abroad. Anything claiming otherwise is an aggregator farming clicks.",
+    "reality_check": "The Swiss Government Excellence Scholarship is postgraduate only — confirmed on the federal SBFI site. ETH Zurich only opens financial aid to bachelor students after they have passed the first-year Basisprüfung, and it assumes Swiss residence; ETH states outright that international students should secure funding in their home country. EPFL's excellence fellowships are master's level. Cantonal grants require a residence permit. What is left is partial merit money (USI Lugano) and integration programmes for people already living in Switzerland with protection status. Switzerland is kept in this tracker so the page can keep watching — not because a route currently exists.",
+    "language_note": "Swiss public bachelor engineering is overwhelmingly taught in German, French or Italian. USI Lugano's BSc in Informatics is the main English-taught undergraduate computing degree in the country.",
+    "code": "CH"
+  },
+  "greece": {
+    "name": "Greece",
+    "slug": "greece",
+    "accent": "#0EA5E9",
+    "accent_soft": "#7DD3FC",
+    "code": "GR",
+    "rating": "moderate",
+    "headline": "A small but real Palestine-specific programme: three government scholarships a year, plus a free year of Greek to get you ready.",
+    "reality_check": "The Hellenic Ministry of Foreign Affairs runs an annual undergraduate scholarship specifically for Palestinian nationals and Jerusalemites, awarded through the Greek Consulate General in Jerusalem: EUR 650 a month, and a free up-to-8-month Greek language course first if you don't already speak it. It is real and it is Palestine-only - the catch is scale, only three scholarships a year, and it is not guaranteed that computer engineering or mechatronics will be on the list of faculties offered in any given year. There is no separate national route beyond this one; Greece does not waive tuition for non-EU students the way Germany does.",
+    "language_note": "Greek public universities teach in Greek. The scholarship itself budgets for this - non-Greek speakers are enrolled in a preparatory language course before the degree starts."
+  },
+  "cyprus": {
+    "name": "Cyprus",
+    "slug": "cyprus",
+    "accent": "#14B8A6",
+    "accent_soft": "#5EEAD4",
+    "code": "CY",
+    "rating": "weak",
+    "headline": "Be told this plainly: nothing fully funded, at bachelor level, reachable by a Palestinian applicant currently exists here.",
+    "reality_check": "The one Palestine-specific programme found - the University of Cyprus's Gaza scholarships - is postgraduate only. The Cyprus State Scholarship Foundation is nationality-blind and does formally include third-country students, but it tops out around EUR 3,000 a year, is merit-and-need assessed, and was not built with an applicant living outside Cyprus in mind. A private university in the north, Cyprus International University, advertises Palestinian eligibility and an automatic 50% tuition scholarship - but that is half-price, not free, and it sits in the Turkish Republic of Northern Cyprus, a jurisdiction only Turkey recognises, which carries real practical complications for degree recognition, banking and travel that a fully-recognised Republic of Cyprus institution would not. Kept on this site so you can see the moment a real route appears.",
+    "language_note": "The public University of Cyprus and Cyprus University of Technology teach mainly in Greek. The private universities that teach in English - Nicosia, Frederick, and the northern institutions - are the ones with the scholarship offers above, at the costs described."
+  },
+  "france": {
+    "name": "France",
+    "slug": "france",
+    "accent": "#6366F1",
+    "accent_soft": "#A5B4FC",
+    "code": "FR",
+    "rating": "moderate",
+    "headline": "A real Gaza-specific scholarship that explicitly funds bachelor's study existed for 2024/25 - confirm it is still running before you plan around it.",
+    "reality_check": "France Excellence's special Gaza campaign is the strongest thing found for France: it explicitly funds licence (bachelor) years 2 and 3 as well as master's and doctorate, with a monthly allowance, flights, insurance and CROUS housing help, for Palestinian nationals who were studying in or resident in Gaza until at least September 2023. It ran for the 2024/25 academic year. No announcement of a 2025/26 or 2026/27 renewal could be found - this does not mean it is gone, French government emergency programmes have a habit of reopening without much advance notice, but it means you should check the Campus France page yourself before counting on it, which is exactly what the daily update on this site does.",
+    "language_note": "Instruction language depends on which French institution and programme Campus France places you into - ask before you commit if an English-taught track matters to you."
+  },
+  "germany": {
+    "name": "Germany",
+    "slug": "germany",
+    "accent": "#F59E0B",
+    "accent_soft": "#FCD34D",
+    "code": "DE",
+    "rating": "strong",
+    "headline": "The real headline is not a scholarship: German public universities charge zero tuition at bachelor level, for every nationality, indefinitely.",
+    "reality_check": "This is the strongest financial story of any country on this site, and it is not a competitive award you can be rejected from - it is a fee policy. Every public university in Germany (400+ of them) charges EUR 0 tuition for a bachelor's degree, regardless of nationality, for as long as the programme normally takes (one state, Baden-Wurttemberg, charges non-EU students roughly EUR 1,500 a semester as the sole exception). What is not covered is living costs, and Germany's student visa requires you to prove you can pay them yourself - a blocked account holding roughly EUR 11,904 for the year, released to you at about EUR 992 a month. That is a real, sizeable barrier, but it is a fixed, knowable one, unlike the open-ended costs elsewhere. Two supplementary programmes exist alongside this: the Deutschlandstipendium, a modest merit stipend you can apply for once enrolled, and DAAD's Bridge Scholarship for Palestinians, which is emergency support for Palestinians already studying in Germany - not a way to get in.",
+    "language_note": "This is the actual catch. Most public bachelor's in engineering and computer science are taught in German and expect B2-C1 on entry. English-taught bachelor's exist but are the exception, concentrated at a handful of universities and programmes - confirm the teaching language of a specific programme before you plan around it."
+  },
+  "uae": {
+    "name": "UAE",
+    "slug": "uae",
+    "accent": "#D946EF",
+    "accent_soft": "#F0ABFC",
+    "code": "AE",
+    "rating": "moderate",
+    "headline": "A genuine merit route at a top engineering university, plus a Palestinian community scholarship fund whose current status needs a direct call to confirm.",
+    "reality_check": "Khalifa University's top scholarship tier covers full tuition for outstanding bachelor's applicants, is open to 225 nationalities and does not exclude Palestinians - but it is merit-competitive, decided automatically from your admission file, and does not confirm a living stipend, so you would still need to fund accommodation and daily costs yourself or find that separately. The Palestinian Embassy in Abu Dhabi has run its own scholarship programme for Palestinian students across UAE universities before - 156 students in one documented round - but the only confirmed reporting on it is several years old, and no current-cycle details could be verified. Contact the embassy directly to find out whether it is still running.",
+    "language_note": "UAE university bachelor's degrees - Khalifa University, American University of Sharjah and similar - are taught in English."
+  },
+  "poland": {
+    "name": "Poland",
+    "slug": "poland",
+    "accent": "#84CC16",
+    "accent_soft": "#BEF264",
+    "code": "PL",
+    "rating": "weak",
+    "headline": "No route currently exists for a Palestinian applicant at bachelor level - every path the Polish government runs either stops at master's or is closed to you by ancestry.",
+    "reality_check": "NAWA, the Polish government's scholarship agency, runs three programmes that touch this area, and none of them work here: the Banach Programme (developing-country citizens, Palestine included) and the Lukasiewicz Programme are both master's-level only; the one NAWA programme that funds bachelor's degrees, the General Anders Programme, is restricted to people of Polish descent holding a Karta Polaka, which is not something a Palestinian applicant without Polish heritage can obtain. No Palestine- or Gaza-specific programme at a Polish university, of the kind Italy and France have run, turned up in a thorough search. Kept on this site, like Switzerland, so you can see the day that changes.",
+    "language_note": "Not the binding constraint here - funding is. Most Polish public bachelor's are Polish-taught in any case."
+  }
+}

@@ -1,0 +1,2397 @@
+{
+  "meta": {
+    "schema": 1,
+    "curated_on": "2026-08-29",
+    "curated_for": "Bachelor's degrees in Computer Engineering / Computer Science Engineering and Mechatronics Engineering, fully funded, open to Palestinian nationals.",
+    "honesty_note": "Every entry carries its own sources[] and last_verified date. The daily updater re-checks links, re-scrapes contact emails from the official pages, recomputes deadline status and flags pages whose content has changed since the last run. It does not invent new scholarships."
+  },
+  "scholarships": [
+    {
+      "id": "hu-stipendium-hungaricum",
+      "country": "hungary",
+      "name": "Stipendium Hungaricum",
+      "provider": "Tempus Public Foundation, for the Hungarian Ministry of Culture and Innovation",
+      "verdict": "eligible",
+      "priority": 1,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics"
+      ],
+      "language": "English",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "Tuition: fully waived for the whole degree",
+          "Stipend: HUF 43,700 / month for BSc, paid 12 months a year",
+          "Housing: free dormitory place, or a HUF 40,000 / month housing contribution",
+          "Health: Hungarian medical insurance plus supplementary cover up to HUF 65,000 / year"
+        ],
+        "not_covered": [
+          "International flights",
+          "Visa and residence permit fees",
+          "Document translation and attestation"
+        ]
+      },
+      "palestine": {
+        "status": "explicit",
+        "note": "Palestine is a listed Sending Partner on the official Stipendium Hungaricum partners page, with full-degree bachelor studies available in any field of study. Nomination runs through the Palestinian Ministry of Education and Higher Education - there is no way to apply without their nomination."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "01-15",
+        "time": "14:00 (Central European Time)",
+        "confidence": "confirmed",
+        "note": "The 2026/27 round closed 15 January 2026. The call for 2027/28 is expected to open in November 2026 with the same mid-January deadline."
+      },
+      "opens": {
+        "month_day": "11-15",
+        "note": "Call typically published mid-November."
+      },
+      "how_to_apply": [
+        "Register on apply.stipendiumhungaricum.hu and pick up to two study programmes.",
+        "Submit the Hungarian online application before the deadline.",
+        "Separately register with the Palestinian Ministry of Education and Higher Education (the Sending Partner) - they run their own nomination and interview process on the same deadline.",
+        "Sit the host university entrance exam or interview (usually online, February to April).",
+        "Results are announced around June to July."
+      ],
+      "links": [
+        {
+          "label": "Official programme site",
+          "url": "https://stipendiumhungaricum.hu/"
+        },
+        {
+          "label": "Online application portal",
+          "url": "https://apply.stipendiumhungaricum.hu/"
+        },
+        {
+          "label": "Sending Partners list (confirms Palestine)",
+          "url": "https://stipendiumhungaricum.hu/partners/"
+        },
+        {
+          "label": "Study finder - search programmes",
+          "url": "https://stipendiumhungaricum.hu/study-finder/"
+        },
+        {
+          "label": "Call for Applications 2026/27 (PDF)",
+          "url": "https://stipendiumhungaricum.hu/wp-content/uploads/2025/10/BA_MA_OTM_Call_for_Applications_2026_27.pdf"
+        }
+      ],
+      "emails": [
+        {
+          "label": "Palestinian Sending Partner - Ministry of Education and Higher Education (Dr. Shadi Hilo)",
+          "address": "info.scholar@mohe.pna.ps",
+          "verified": true
+        },
+        {
+          "label": "Tempus Public Foundation (Hungarian side, general enquiries)",
+          "address": "information@tpf.hu",
+          "verified": false
+        }
+      ],
+      "phones": [
+        "+970 2 298 2630",
+        "+970 2 298 2655"
+      ],
+      "programmes": [
+        {
+          "degree": "BSc Mechatronical Engineering",
+          "university": "Obuda University",
+          "city": "Budapest",
+          "duration": "7 semesters",
+          "language": "English",
+          "url": "https://apply.stipendiumhungaricum.hu/courses/course/726-bsc-mechatronical-engineering",
+          "site": "https://uni-obuda.hu/en/",
+          "field": [
+            "mechatronics"
+          ]
+        },
+        {
+          "degree": "BSc Computer Science Engineering",
+          "university": "Obuda University",
+          "city": "Budapest",
+          "duration": "7 semesters",
+          "language": "English",
+          "url": "https://apply.stipendiumhungaricum.hu/courses/course/723-bsc-computer-science-engineering",
+          "site": "https://uni-obuda.hu/en/",
+          "field": [
+            "computer-engineering"
+          ]
+        },
+        {
+          "degree": "BSc Computer Science",
+          "university": "Host universities vary by cycle - check the study finder",
+          "city": "various",
+          "duration": "6-7 semesters",
+          "language": "English",
+          "url": "https://apply.stipendiumhungaricum.hu/courses/course/1335-bsc-computer-science",
+          "site": "https://apply.stipendiumhungaricum.hu/courses/search",
+          "field": [
+            "computer-engineering"
+          ]
+        },
+        {
+          "degree": "BSc Mechanical Engineering (mechatronics-adjacent)",
+          "university": "University of Debrecen",
+          "city": "Debrecen",
+          "duration": "7 semesters",
+          "language": "English",
+          "url": "https://apply.stipendiumhungaricum.hu/courses/course/945-bsc-mechanical-engineering",
+          "site": "https://edu.unideb.hu/page.php?id=260",
+          "field": [
+            "mechatronics"
+          ]
+        }
+      ],
+      "watch": [
+        "https://stipendiumhungaricum.hu/",
+        "https://stipendiumhungaricum.hu/partners/"
+      ],
+      "warnings": [
+        "Programme availability per country is set by the bilateral education cooperation agreement and is re-published every cycle. Confirm in the study finder that Mechatronical / Computer Science Engineering is open to Palestine for the year you apply."
+      ],
+      "sources": [
+        "https://stipendiumhungaricum.hu/partners/",
+        "https://stipendiumhungaricum.hu/apply/",
+        "https://stipendiumhungaricum.hu/wp-content/uploads/2025/10/BA_MA_OTM_Call_for_Applications_2026_27.pdf"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "hu-scyp-christian-young-people",
+      "country": "hungary",
+      "name": "Scholarship Programme for Christian Young People (SCYP)",
+      "provider": "Hungary Helps Agency, Government of Hungary",
+      "verdict": "eligible-conditional",
+      "priority": 2,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics",
+        "all"
+      ],
+      "language": "English",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "Tuition: fully covered",
+          "Monthly stipend for living costs",
+          "Accommodation support",
+          "Travel contribution",
+          "Health insurance"
+        ],
+        "not_covered": [
+          "Visa fees"
+        ]
+      },
+      "palestine": {
+        "status": "explicit-conditional",
+        "note": "Palestine is named among the eligible citizenships for the 2026/27 round. The programme is restricted to practising Christians - an official letter of recommendation from your local church confirming active membership is a hard requirement. If that does not apply to you, this route is closed and Stipendium Hungaricum is your Hungarian option."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "02-15",
+        "confidence": "typical",
+        "note": "SCYP has historically closed in February, after Stipendium Hungaricum. Treat the date as indicative and confirm on the Hungary Helps page - the daily updater watches it."
+      },
+      "opens": {
+        "month_day": "12-01",
+        "note": "Usually opens December or January."
+      },
+      "how_to_apply": [
+        "Obtain a letter of recommendation from your local church.",
+        "Apply through the dedicated Hungary Helps online form.",
+        "Shortlisted candidates are interviewed by the host university."
+      ],
+      "links": [
+        {
+          "label": "Hungary Helps - official SCYP page",
+          "url": "https://hungaryhelps.gov.hu/en/programs/scholarship"
+        },
+        {
+          "label": "University of Pecs - SCYP host page",
+          "url": "https://international.pte.hu/scholarship-programme-christian-young-people"
+        },
+        {
+          "label": "University of Szeged - SCYP host page",
+          "url": "https://sci.u-szeged.hu/english/scholarship-programme-211124/scholarship-programme"
+        }
+      ],
+      "emails": [
+        {
+          "label": "Hungary Helps Agency - SCYP desk",
+          "address": "scyp@hungaryhelps.gov.hu",
+          "verified": true
+        }
+      ],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "BSc Computer Science Engineering / Mechatronics at SCYP host universities",
+          "university": "University of Pecs, University of Szeged, Obuda University and other SCYP hosts",
+          "city": "various",
+          "duration": "6-7 semesters",
+          "language": "English",
+          "url": "https://hungaryhelps.gov.hu/en/programs/scholarship",
+          "site": "https://international.pte.hu/scholarship-programme-christian-young-people",
+          "field": [
+            "computer-engineering",
+            "mechatronics"
+          ]
+        }
+      ],
+      "watch": [
+        "https://hungaryhelps.gov.hu/en/programs/scholarship"
+      ],
+      "warnings": [
+        "Religious eligibility requirement. Do not spend effort here unless you can obtain the church letter."
+      ],
+      "sources": [
+        "https://hungaryhelps.gov.hu/en/programs/scholarship",
+        "https://international.pte.hu/scholarship-programme-christian-young-people"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "it-iupals",
+      "country": "italy",
+      "name": "IUPALS - Italian Universities for Palestinian Students",
+      "provider": "CRUI (Conference of Italian University Rectors) with participating universities and the Italian Ministry of Foreign Affairs",
+      "verdict": "eligible",
+      "priority": 1,
+      "level": [
+        "bachelor",
+        "single-cycle master"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics",
+        "all"
+      ],
+      "language": "Italian and English, depending on the degree",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "EUR 12,000 per year cash scholarship",
+          "Full exemption from university tuition and fees",
+          "Mandatory 5-month intensive Italian language course delivered in Bethlehem and Ramallah before departure",
+          "Visa and travel support coordinated through the Italian Consulate in Jerusalem"
+        ],
+        "not_covered": [
+          "Costs beyond the EUR 12,000 allowance"
+        ]
+      },
+      "palestine": {
+        "status": "palestine-only",
+        "note": "This scholarship exists specifically for Palestinian students resident in the Palestinian Territories. Around 97 scholarships across 35 Italian universities in the most recent round, at bachelor, master and single-cycle master level."
+      },
+      "deadline": {
+        "kind": "window",
+        "from_month_day": "05-01",
+        "to_month_day": "07-15",
+        "confidence": "typical",
+        "note": "There is no single IUPALS deadline - each university publishes its own call. Observed 2025 deadlines: Florence 30 May, Macerata 12 June, Sapienza Rome 30 June, Padova 2 July. Watch the CRUI page and the individual university calls from roughly April onwards."
+      },
+      "opens": {
+        "month_day": "04-01",
+        "note": "University calls appear from April."
+      },
+      "how_to_apply": [
+        "Watch the CRUI IUPALS page and the Italian Consulate in Jerusalem for the year's call.",
+        "Pick the participating university whose engineering degree you want - each has a separate application.",
+        "Apply directly to that university IUPALS call with transcripts, Tawjihi, motivation letter and proof of residence in the Palestinian Territories.",
+        "Selected students join the Italian language course in Bethlehem or Ramallah before travelling."
+      ],
+      "links": [
+        {
+          "label": "Italian Consulate General in Jerusalem - IUPALS announcement",
+          "url": "https://consgerusalemme.esteri.it/en/news/dal_consolato/2025/05/scholarships-of-italian-universities-for-palestinian-students-iupals-project-italian-universities-for-palestinian-students/"
+        },
+        {
+          "label": "CRUI - coordinating body",
+          "url": "https://www.crui.it/"
+        },
+        {
+          "label": "Sapienza University of Rome - IUPALS",
+          "url": "https://www.uniroma1.it/en/pagina/iupals-italian-universities-palestinian-students"
+        },
+        {
+          "label": "University of Padova - IUPALS",
+          "url": "https://www.unipd.it/en/iupals"
+        },
+        {
+          "label": "University of Milan - IUPALS",
+          "url": "https://www.unimi.it/en/study/financial-support/iupals-italian-universities-palestinian-students"
+        },
+        {
+          "label": "University of Florence - IUPALS",
+          "url": "https://www.unifi.it/en/study-us/access-and-enrolment/scholarships-and-grants/iupals-project"
+        },
+        {
+          "label": "University of Ferrara - IUPALS",
+          "url": "https://www.unife.it/en/come-to-study/iupals-scholarship-program"
+        },
+        {
+          "label": "Birzeit University - local announcements for Palestinian applicants",
+          "url": "https://www.birzeit.edu/en/announcements"
+        },
+        {
+          "label": "Scholars at Risk Italy - IUPALS overview",
+          "url": "https://www.scholarsatrisk.org/sections/sar-italy/section-news/iupals-italian-universities-for-palestinian-students/"
+        }
+      ],
+      "emails": [
+        {
+          "label": "Sapienza - Diritto allo Studio office (handles IUPALS)",
+          "address": "dirittoallostudio@uniroma1.it",
+          "verified": true
+        },
+        {
+          "label": "University of Padova - Rescue Fund / IUPALS",
+          "address": "unipd.rescuefund@unipd.it",
+          "verified": true
+        }
+      ],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "BSc Ingegneria Informatica (Computer Engineering)",
+          "university": "Sapienza University of Rome",
+          "city": "Rome",
+          "duration": "3 years",
+          "language": "Italian",
+          "url": "https://www.uniroma1.it/en/pagina/iupals-italian-universities-palestinian-students",
+          "site": "https://www.uniroma1.it/en",
+          "field": [
+            "computer-engineering"
+          ]
+        },
+        {
+          "degree": "BSc Ingegneria dell Informazione / Ingegneria Meccatronica",
+          "university": "University of Padova",
+          "city": "Padova and Vicenza",
+          "duration": "3 years",
+          "language": "Italian",
+          "url": "https://www.unipd.it/en/iupals",
+          "site": "https://www.unipd.it/en/",
+          "field": [
+            "computer-engineering",
+            "mechatronics"
+          ]
+        },
+        {
+          "degree": "BSc Ingegneria Informatica, Elettronica e delle Telecomunicazioni",
+          "university": "University of Ferrara",
+          "city": "Ferrara",
+          "duration": "3 years",
+          "language": "Italian",
+          "url": "https://www.unife.it/en/come-to-study/iupals-scholarship-program",
+          "site": "https://www.unife.it/en",
+          "field": [
+            "computer-engineering"
+          ]
+        }
+      ],
+      "watch": [
+        "https://www.unipd.it/en/iupals",
+        "https://www.uniroma1.it/en/pagina/iupals-italian-universities-palestinian-students",
+        "https://www.unimi.it/en/study/financial-support/iupals-italian-universities-palestinian-students",
+        "https://www.unife.it/en/come-to-study/iupals-scholarship-program"
+      ],
+      "warnings": [
+        "Most IUPALS bachelor places are Italian-taught, which is why the pre-departure language course is compulsory. If you need an English-taught engineering BSc, pair IUPALS with the Politecnico route instead.",
+        "The list of participating universities and the number of places changes every year."
+      ],
+      "sources": [
+        "https://consgerusalemme.esteri.it/en/news/dal_consolato/2025/05/scholarships-of-italian-universities-for-palestinian-students-iupals-project-italian-universities-for-palestinian-students/",
+        "https://www.unipd.it/en/iupals",
+        "https://www.unifi.it/en/study-us/access-and-enrolment/scholarships-and-grants/iupals-project"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "it-dsu-lombardia-polimi",
+      "country": "italy",
+      "name": "DSU Lombardia right-to-study grant, via Politecnico di Milano",
+      "provider": "Regione Lombardia and Politecnico di Milano Diritto allo Studio",
+      "verdict": "eligible",
+      "priority": 2,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics"
+      ],
+      "language": "Italian, with English-taught tracks",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "Full tuition exemption - winners pay only a non-refundable administrative fee of roughly EUR 170",
+          "Cash allowance in the region of EUR 6,000 to 7,200 per year for students living away from home",
+          "Accommodation in student housing, or a housing allowance",
+          "Meal contribution at university canteens"
+        ],
+        "not_covered": [
+          "Flights",
+          "Visa fees"
+        ]
+      },
+      "palestine": {
+        "status": "nationality-blind",
+        "note": "This is a need-based right-to-study grant. It is not restricted by nationality - Palestinian students qualify on the same terms as everyone else. Assessment is on family income and assets; non-EU students submit an income and property certificate legalised by the Italian diplomatic mission covering the household."
+      },
+      "deadline": {
+        "kind": "window",
+        "from_month_day": "07-15",
+        "to_month_day": "09-11",
+        "confidence": "typical",
+        "note": "The DSU call (bando) opens in July and closes in the first half of September, before the academic year starts. You apply as an admitted or applying student - you do not need to have enrolled yet."
+      },
+      "opens": {
+        "month_day": "07-15",
+        "note": "Bando published mid-July."
+      },
+      "how_to_apply": [
+        "Apply for admission to Politecnico di Milano first - non-EU rounds run roughly November to May.",
+        "Get your household income and property documentation issued and legalised - start this months early, it is the step that fails people.",
+        "Submit the DSU application on the Politecnico Online Services portal during the July to September window.",
+        "Apply for the Polimi merit scholarship at the same time - they stack."
+      ],
+      "links": [
+        {
+          "label": "Politecnico di Milano - scholarships overview",
+          "url": "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships"
+        },
+        {
+          "label": "Politecnico di Milano - prospective international students",
+          "url": "https://www.polimi.it/en/prospective-students"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "BSc Ingegneria Informatica (Computer Engineering)",
+          "university": "Politecnico di Milano",
+          "city": "Milan",
+          "duration": "3 years",
+          "language": "Italian, with English-taught tracks",
+          "url": "https://www.polimi.it/en/education",
+          "site": "https://www.polimi.it/en",
+          "field": [
+            "computer-engineering"
+          ]
+        },
+        {
+          "degree": "BSc Automation Engineering (mechatronics pathway)",
+          "university": "Politecnico di Milano",
+          "city": "Milan",
+          "duration": "3 years",
+          "language": "Italian, with English-taught tracks",
+          "url": "https://www.polimi.it/en/education",
+          "site": "https://www.polimi.it/en",
+          "field": [
+            "mechatronics"
+          ]
+        }
+      ],
+      "watch": [
+        "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships"
+      ],
+      "warnings": [
+        "The Polimi merit scholarship (cash plus tuition waiver) and the regional DSU grant (housing, meals, allowance) are two different applications with two different deadlines. Missing the September DSU window is the single most common way international students lose full funding here."
+      ],
+      "sources": [
+        "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "it-edisu-piemonte-polito",
+      "country": "italy",
+      "name": "EDISU Piemonte right-to-study grant, via Politecnico di Torino",
+      "provider": "EDISU Piemonte and Politecnico di Torino",
+      "verdict": "eligible",
+      "priority": 2,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics"
+      ],
+      "language": "Italian and English tracks",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "Full tuition exemption",
+          "Annual cash allowance in the region of EUR 3,000 to 5,000, higher for students living away from home",
+          "Accommodation in EDISU student residences",
+          "Free or heavily subsidised canteen meals"
+        ],
+        "not_covered": [
+          "Flights",
+          "Visa fees"
+        ]
+      },
+      "palestine": {
+        "status": "nationality-blind",
+        "note": "Need-based and open to all nationalities. Palestinian students apply on the same income criteria as everyone else."
+      },
+      "deadline": {
+        "kind": "window",
+        "from_month_day": "07-01",
+        "to_month_day": "09-15",
+        "confidence": "typical",
+        "note": "EDISU publishes its bando in summer and closes in early to mid September. Politecnico di Torino also runs its own merit scholarship for international bachelor applicants, tied to the admission rounds earlier in the year."
+      },
+      "opens": {
+        "month_day": "07-01",
+        "note": "Bando published in July."
+      },
+      "how_to_apply": [
+        "Apply to Politecnico di Torino through Apply@polito - non-EU admission rounds run from autumn to spring.",
+        "Apply for the PoliTo international bachelor scholarship inside the admission application.",
+        "Separately submit the EDISU Piemonte application in the July to September window with legalised household income documents."
+      ],
+      "links": [
+        {
+          "label": "Politecnico di Torino - financial aid for international students",
+          "url": "https://www.polito.it/en/education/international-students/financial-aid"
+        },
+        {
+          "label": "EDISU Piemonte - official site",
+          "url": "https://www.edisu.piemonte.it/en"
+        }
+      ],
+      "emails": [
+        {
+          "label": "EDISU Piemonte",
+          "address": "info@edisu.piemonte.it",
+          "verified": false
+        }
+      ],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "BSc Ingegneria Informatica (Computer Engineering)",
+          "university": "Politecnico di Torino",
+          "city": "Turin",
+          "duration": "3 years",
+          "language": "Italian and English tracks",
+          "url": "https://www.polito.it/en/education",
+          "site": "https://www.polito.it/en",
+          "field": [
+            "computer-engineering"
+          ]
+        },
+        {
+          "degree": "BSc Ingegneria Meccatronica and automotive mechatronics pathways",
+          "university": "Politecnico di Torino",
+          "city": "Turin",
+          "duration": "3 years",
+          "language": "Italian and English tracks",
+          "url": "https://www.polito.it/en/education",
+          "site": "https://www.polito.it/en",
+          "field": [
+            "mechatronics"
+          ]
+        }
+      ],
+      "watch": [
+        "https://www.polito.it/en/education/international-students/financial-aid",
+        "https://www.edisu.piemonte.it/en"
+      ],
+      "warnings": [
+        "Turin is one of the few places in Europe with a named mechatronics engineering bachelor track plus a nationality-blind full grant. Treat this as a primary target."
+      ],
+      "sources": [
+        "https://www.polito.it/en/education/international-students/financial-aid"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "it-regional-dsu-other",
+      "country": "italy",
+      "name": "Regional right-to-study grants in other regions (ER-GO, DSU Toscana, LazioDisco)",
+      "provider": "Regional right-to-study agencies",
+      "verdict": "eligible",
+      "priority": 3,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics"
+      ],
+      "language": "Mostly Italian, some English tracks",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "Tuition exemption",
+          "Cash allowance typically EUR 5,000 to 7,200 per year for off-site students",
+          "Student housing place",
+          "Canteen meals"
+        ],
+        "not_covered": [
+          "Flights",
+          "Visa fees"
+        ]
+      },
+      "palestine": {
+        "status": "nationality-blind",
+        "note": "Every Italian region runs one of these and none of them filter by nationality. If Milan and Turin do not work out, the same funding model exists in Bologna, Pisa, Florence, Naples and Rome."
+      },
+      "deadline": {
+        "kind": "window",
+        "from_month_day": "07-01",
+        "to_month_day": "09-30",
+        "confidence": "typical",
+        "note": "Each agency sets its own date, almost always inside the July to September window."
+      },
+      "opens": {
+        "month_day": "07-01",
+        "note": "Summer."
+      },
+      "how_to_apply": [
+        "Choose the university, then find that region's DSU agency.",
+        "Prepare legalised household income and property documents before the bando opens."
+      ],
+      "links": [
+        {
+          "label": "ER-GO Emilia-Romagna (Bologna)",
+          "url": "https://www.er-go.it/"
+        },
+        {
+          "label": "DSU Toscana (Florence, Pisa, Siena)",
+          "url": "https://www.dsu.toscana.it/"
+        },
+        {
+          "label": "LazioDisco (Rome)",
+          "url": "https://www.laziodisco.it/"
+        },
+        {
+          "label": "University of Turin - scholarships for international students",
+          "url": "https://en.unito.it/studying-unito/scholarships-international-students"
+        },
+        {
+          "label": "Universitaly - official national portal for international applicants",
+          "url": "https://www.universitaly.it/"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "BSc Ingegneria Informatica and Ingegneria Meccatronica",
+          "university": "University of Bologna, Pisa, Florence, Naples Federico II and others",
+          "city": "various",
+          "duration": "3 years",
+          "language": "Mostly Italian",
+          "url": "https://www.universitaly.it/",
+          "site": "https://www.studiare-in-italia.it/studentistranieri/",
+          "field": [
+            "computer-engineering",
+            "mechatronics"
+          ]
+        }
+      ],
+      "watch": [
+        "https://www.er-go.it/",
+        "https://www.dsu.toscana.it/"
+      ],
+      "warnings": [
+        "Language is the constraint here, not money."
+      ],
+      "sources": [
+        "https://en.unito.it/studying-unito/scholarships-international-students"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "it-maeci",
+      "country": "italy",
+      "name": "MAECI Italian Government Scholarship",
+      "provider": "Italian Ministry of Foreign Affairs and International Cooperation",
+      "verdict": "not-bachelor",
+      "priority": 9,
+      "level": [
+        "master",
+        "phd",
+        "afam",
+        "language course"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "Italian and English",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "Monthly allowance of EUR 900",
+          "Full exemption from enrolment and tuition fees",
+          "Health insurance"
+        ],
+        "not_covered": []
+      },
+      "palestine": {
+        "status": "explicit",
+        "note": "Palestine is an eligible country and Birzeit University publishes the call locally each year - but the scholarship types offered are Master's, PhD, research, AFAM (arts and music) and Italian language courses. Bachelor's degrees are NOT funded. Listed here so you do not waste an application cycle on it, and so the tracker tells you if that ever changes."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "03-26",
+        "time": "14:00 (Central European Time)",
+        "confidence": "typical",
+        "note": "The 2026/27 call closed at 14:00 CET on 26 March 2026. The date moves by a few weeks each year - applications go exclusively through the Study in Italy portal."
+      },
+      "opens": {
+        "month_day": "02-01",
+        "note": "Call usually published in late winter."
+      },
+      "how_to_apply": [
+        "Not applicable at bachelor level. Revisit for your master's."
+      ],
+      "links": [
+        {
+          "label": "Study in Italy - list of open calls (apply here)",
+          "url": "https://studyinitaly.esteri.it/ListaBandi"
+        },
+        {
+          "label": "MAECI - official scholarships page for foreign citizens",
+          "url": "https://www.esteri.it/en/servizi-opportunita/opportunita/borse-di-studio/per-cittadini-stranieri/borsestudio_stranieri/"
+        },
+        {
+          "label": "Birzeit University - local MAECI announcement",
+          "url": "https://www.birzeit.edu/en/announcements/maeci-scholarships-italian-universities-italy-scholarship-starting-year-2025-2026"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://studyinitaly.esteri.it/ListaBandi"
+      ],
+      "warnings": [
+        "Bachelor's degrees are excluded. The tracker watches this page and will flag it if the call ever adds undergraduate study."
+      ],
+      "sources": [
+        "https://www.birzeit.edu/en/announcements/maeci-scholarships-italian-universities-italy-scholarship-starting-year-2025-2026"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "es-ucm-plan-acogida-gaza",
+      "country": "spain",
+      "name": "Becas Plan de Acogida - Guerra de Gaza",
+      "provider": "Universidad Complutense de Madrid (UCM)",
+      "verdict": "eligible",
+      "priority": 1,
+      "level": [
+        "bachelor",
+        "master"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics",
+        "all"
+      ],
+      "language": "Spanish",
+      "funding": {
+        "tier": "near-full",
+        "items": [
+          "100% exemption from tuition fees for an official bachelor's or master's degree",
+          "Complementary aid covering accommodation in UCM halls of residence"
+        ],
+        "not_covered": [
+          "Flights",
+          "Visa fees",
+          "A guaranteed cash living stipend"
+        ]
+      },
+      "palestine": {
+        "status": "palestine-only",
+        "note": "Written specifically for Palestinian students who are refugees or displaced by the war in Gaza. Selection is competitive and weighted on socio-economic situation (at least 25 of a minimum 50 points must come from the economic assessment), plus motivation and academic record."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "06-25",
+        "confidence": "typical",
+        "note": "The most recent published window ran 12 to 25 June 2025. UCM re-issues the call each academic year - the exact fortnight moves, so the tracker watches the UCM Palestine action plan page."
+      },
+      "opens": {
+        "month_day": "06-12",
+        "note": "Roughly a two-week window in June."
+      },
+      "how_to_apply": [
+        "Watch the UCM Plan de Accion - Palestina page for the year's convocatoria.",
+        "Get your Tawjihi recognised through UNEDasiss - this is a separate process and it is slow, start it early.",
+        "Submit the UCM application with proof of displacement or refugee status, academic record and evidence of economic situation."
+      ],
+      "links": [
+        {
+          "label": "UCM - Plan de Accion Palestina, Compromiso 3 (Acogida y Refugio)",
+          "url": "https://www.ucm.es/plan-accion-ucm-palestina/compromiso-3"
+        },
+        {
+          "label": "UCM - Red Complutense por Palestina",
+          "url": "https://www.ucm.es/redcomplutenseporpalestina/"
+        },
+        {
+          "label": "UNEDasiss - credential needed to convert your Tawjihi",
+          "url": "https://unedasiss.uned.es/home"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "Grado en Ingenieria Informatica (Computer Engineering)",
+          "university": "Universidad Complutense de Madrid",
+          "city": "Madrid",
+          "duration": "4 years",
+          "language": "Spanish",
+          "url": "https://www.ucm.es/estudios/grado-ingenieriainformatica",
+          "site": "https://www.ucm.es/",
+          "field": [
+            "computer-engineering"
+          ]
+        }
+      ],
+      "watch": [
+        "https://www.ucm.es/plan-accion-ucm-palestina/compromiso-3"
+      ],
+      "warnings": [
+        "Taught in Spanish. You will need B2 or better plus the UNEDasiss credential.",
+        "Spanish press has documented Palestinian students admitted by Spanish universities who were then stuck for months or years waiting on exit and visa arrangements out of Gaza. Admission is not the same as arrival - factor that into your planning."
+      ],
+      "sources": [
+        "https://www.ucm.es/plan-accion-ucm-palestina/compromiso-3",
+        "https://www.becas.com/universidad-complutense-de-madrid/becas-plan-acogida-guerra-gaza-ucm"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "es-uab-refugi",
+      "country": "spain",
+      "name": "Ayudas #UABRefugi - extraordinary call for students from Palestine",
+      "provider": "Universitat Autonoma de Barcelona (UAB), via Fundacio Autonoma Solidaria",
+      "verdict": "eligible",
+      "priority": 2,
+      "level": [
+        "bachelor",
+        "master",
+        "phd"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics",
+        "all"
+      ],
+      "language": "Catalan and Spanish, some English",
+      "funding": {
+        "tier": "near-full",
+        "items": [
+          "Tuition support for bachelor, master or doctoral studies",
+          "Study grant administered by Fundacio Autonoma Solidaria",
+          "Welcome and integration support through the UABRefugi programme"
+        ],
+        "not_covered": [
+          "Flights",
+          "Visa fees"
+        ]
+      },
+      "palestine": {
+        "status": "palestine-only",
+        "note": "An extraordinary call created specifically for students from Palestine, covering grado (bachelor), master and doctorate. Small number of awards - four Palestinian students were funded in a recent round."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "07-15",
+        "confidence": "estimate",
+        "note": "Extraordinary calls have not followed a fixed calendar. The date here is a placeholder so the entry stays visible - check the UAB page, which the tracker watches daily."
+      },
+      "opens": {
+        "month_day": "05-01",
+        "note": "Varies - published as an extraordinary convocatoria."
+      },
+      "how_to_apply": [
+        "Check the UAB grants page for the current convocatoria.",
+        "Apply for admission to the UAB degree in parallel via UNEDasiss.",
+        "Contact Fundacio Autonoma Solidaria directly - these small programmes are responsive to direct enquiry."
+      ],
+      "links": [
+        {
+          "label": "UAB - #UABRefugi extraordinary call for Palestinian students",
+          "url": "https://www.uab.cat/web/estudios/grado/oferta-de-grados/becas-de-estudio/detalle-beca-1345808080546.html?param1=1345958653195&param2=UAB-FATWIRE"
+        },
+        {
+          "label": "UAB - news on Palestinian scholarship recipients",
+          "url": "https://www.uab.cat/web/sala-de-prensa/detalle-noticia/4-estudiantes-de-palestina-reciben-una-beca-de-ayuda-al-estudio-1345830290069.html?detid=1345986337355"
+        },
+        {
+          "label": "Fundacio Autonoma Solidaria",
+          "url": "https://www.uab.cat/fas/"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "Grau en Enginyeria Informatica (Computer Engineering)",
+          "university": "Universitat Autonoma de Barcelona",
+          "city": "Barcelona",
+          "duration": "4 years",
+          "language": "Catalan and Spanish",
+          "url": "https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general-1216708251447.html",
+          "site": "https://www.uab.cat/en/",
+          "field": [
+            "computer-engineering"
+          ]
+        }
+      ],
+      "watch": [
+        "https://www.uab.cat/fas/"
+      ],
+      "warnings": [
+        "Teaching in Barcelona is often in Catalan as well as Spanish."
+      ],
+      "sources": [
+        "https://www.uab.cat/web/estudios/grado/oferta-de-grados/becas-de-estudio/detalle-beca-1345808080546.html?param1=1345958653195&param2=UAB-FATWIRE"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "es-ubu-refugio",
+      "country": "spain",
+      "name": "Programa UBU-Refugio - access for students affected by the Gaza conflict",
+      "provider": "Universidad de Burgos",
+      "verdict": "eligible",
+      "priority": 3,
+      "level": [
+        "bachelor",
+        "master",
+        "phd"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics",
+        "all"
+      ],
+      "language": "Spanish",
+      "funding": {
+        "tier": "partial-to-full",
+        "items": [
+          "Reserved access and admission route for students affected by the Gaza conflict",
+          "Accommodation support",
+          "Maintenance aid",
+          "Guidance on applying for the national Ministry of Education grant once resident"
+        ],
+        "not_covered": [
+          "Guaranteed full tuition waiver - confirm per call"
+        ]
+      },
+      "palestine": {
+        "status": "palestine-focused",
+        "note": "Convocatoria written for students affected by the Gaza conflict and for people seeking or holding international protection. Combining UBU-Refugio with the national Beca MEC once you have Spanish residence is how it reaches full funding."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "07-31",
+        "confidence": "estimate",
+        "note": "Published as an annual convocatoria tied to the admission calendar. Confirm on the UBU page - the tracker watches it."
+      },
+      "opens": {
+        "month_day": "05-01",
+        "note": "Spring or summer."
+      },
+      "how_to_apply": [
+        "Read the current UBU-Refugio convocatoria.",
+        "Apply through the reserved admission route rather than the general one."
+      ],
+      "links": [
+        {
+          "label": "Universidad de Burgos - Programa UBU-Refugio",
+          "url": "https://www.ubu.es/te-interesa/programa-ubu-refugio-curso-20242025-convocatoria-de-acceso-y-admision-para-estudiantes-afectados-por-el-conflicto-de-gaza"
+        },
+        {
+          "label": "UBU - Grado en Ingenieria Informatica",
+          "url": "https://www.ubu.es/grado-en-ingenieria-informatica"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "Grado en Ingenieria Informatica",
+          "university": "Universidad de Burgos",
+          "city": "Burgos",
+          "duration": "4 years",
+          "language": "Spanish",
+          "url": "https://www.ubu.es/grado-en-ingenieria-informatica",
+          "site": "https://www.ubu.es/",
+          "field": [
+            "computer-engineering"
+          ]
+        },
+        {
+          "degree": "Grado en Ingenieria Electronica Industrial y Automatica (mechatronics-adjacent)",
+          "university": "Universidad de Burgos",
+          "city": "Burgos",
+          "duration": "4 years",
+          "language": "Spanish",
+          "url": "https://www.ubu.es/grado-en-ingenieria-electronica-industrial-y-automatica",
+          "site": "https://www.ubu.es/",
+          "field": [
+            "mechatronics"
+          ]
+        }
+      ],
+      "watch": [
+        "https://www.ubu.es/te-interesa/programa-ubu-refugio-curso-20242025-convocatoria-de-acceso-y-admision-para-estudiantes-afectados-por-el-conflicto-de-gaza"
+      ],
+      "warnings": [
+        "Smaller university, less competition, but Spanish-only teaching."
+      ],
+      "sources": [
+        "https://www.ubu.es/te-interesa/programa-ubu-refugio-curso-20242025-convocatoria-de-acceso-y-admision-para-estudiantes-afectados-por-el-conflicto-de-gaza"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "es-ual-refugiados",
+      "country": "spain",
+      "name": "Becas para estudiantes refugiados - tuition, accommodation and Spanish course",
+      "provider": "Universidad de Almeria (UAL)",
+      "verdict": "eligible",
+      "priority": 3,
+      "level": [
+        "bachelor",
+        "master"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics",
+        "all"
+      ],
+      "language": "Spanish",
+      "funding": {
+        "tier": "near-full",
+        "items": [
+          "Tuition fee scholarship",
+          "Accommodation",
+          "Spanish language course"
+        ],
+        "not_covered": [
+          "Flights",
+          "Cash living stipend"
+        ]
+      },
+      "palestine": {
+        "status": "palestine-included",
+        "note": "UAL's refugee scholarship round includes students from Palestine among other nationalities. Around twenty awards in a recent round."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "06-30",
+        "confidence": "estimate",
+        "note": "Annual call, date not fixed. Tracker watches the UAL international page."
+      },
+      "opens": {
+        "month_day": "04-01",
+        "note": "Spring."
+      },
+      "how_to_apply": [
+        "Contact the UAL international office and watch the news page for the annual convocatoria."
+      ],
+      "links": [
+        {
+          "label": "UAL news - refugee scholarships awarded",
+          "url": "https://news.ual.es/internacional/la-ual-entrega-una-veintena-de-becas-de-matricula-alojamiento-y-curso-de-espanol-a-estudiantes-refugiados/"
+        },
+        {
+          "label": "Universidad de Almeria - international",
+          "url": "https://www.ual.es/en/internacional"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "Grado en Ingenieria Informatica",
+          "university": "Universidad de Almeria",
+          "city": "Almeria",
+          "duration": "4 years",
+          "language": "Spanish",
+          "url": "https://www.ual.es/estudios/grados",
+          "site": "https://www.ual.es/",
+          "field": [
+            "computer-engineering"
+          ]
+        },
+        {
+          "degree": "Grado en Ingenieria Electronica Industrial (mechatronics-adjacent)",
+          "university": "Universidad de Almeria",
+          "city": "Almeria",
+          "duration": "4 years",
+          "language": "Spanish",
+          "url": "https://www.ual.es/estudios/grados",
+          "site": "https://www.ual.es/",
+          "field": [
+            "mechatronics"
+          ]
+        }
+      ],
+      "watch": [
+        "https://www.ual.es/en/internacional"
+      ],
+      "warnings": [],
+      "sources": [
+        "https://news.ual.es/internacional/la-ual-entrega-una-veintena-de-becas-de-matricula-alojamiento-y-curso-de-espanol-a-estudiantes-refugiados/"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "es-beca-mec",
+      "country": "spain",
+      "name": "Beca general del Ministerio de Educacion (Beca MEC)",
+      "provider": "Ministerio de Educacion, Formacion Profesional y Deportes",
+      "verdict": "residency-required",
+      "priority": 8,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "Spanish",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "Full tuition",
+          "Fixed residence allowance for students studying away from home",
+          "Income-linked variable amount"
+        ],
+        "not_covered": []
+      },
+      "palestine": {
+        "status": "conditional",
+        "note": "This is the grant that actually pays for Spanish undergraduates - but non-EU nationals must hold legal residence in Spain (and generally the applicant or their family must have resided in Spain for the required period). You cannot win it from Gaza or the West Bank. It becomes reachable in year two if a university refuge programme brings you to Spain first, which is exactly why the UBU and UCM entries above matter."
+      },
+      "deadline": {
+        "kind": "window",
+        "from_month_day": "03-19",
+        "to_month_day": "05-14",
+        "confidence": "typical",
+        "note": "The call normally opens in March and closes in mid-May for the following academic year."
+      },
+      "opens": {
+        "month_day": "03-19",
+        "note": "March."
+      },
+      "how_to_apply": [
+        "Only once you hold Spanish residence. Apply on the Ministry's sede electronica."
+      ],
+      "links": [
+        {
+          "label": "Ministerio de Educacion - becas y ayudas",
+          "url": "https://www.becaseducacion.gob.es/becas-y-ayudas/becas-generales/que-es.html"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://www.becaseducacion.gob.es/becas-y-ayudas/becas-generales/que-es.html"
+      ],
+      "warnings": [
+        "Residence requirement. Listed as the year-two plan, not the entry route."
+      ],
+      "sources": [
+        "https://www.becaseducacion.gob.es/becas-y-ayudas/becas-generales/que-es.html"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "ch-swiss-government-excellence",
+      "country": "switzerland",
+      "name": "Swiss Government Excellence Scholarships (ESKAS)",
+      "provider": "State Secretariat for Education, Research and Innovation (SBFI/SERI)",
+      "verdict": "not-bachelor",
+      "priority": 9,
+      "level": [
+        "phd",
+        "postdoc",
+        "research",
+        "master (arts only)"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "English, German, French",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "Monthly allowance",
+          "Tuition waiver",
+          "Health insurance",
+          "Housing allowance",
+          "One-time arrival payment"
+        ],
+        "not_covered": []
+      },
+      "palestine": {
+        "status": "not-applicable-at-this-level",
+        "note": "The federal scholarship is confirmed on the SBFI site as being for early-career researchers who already hold a Master's degree. The only exception is art scholarships for a first Master's in an artistic field. There is no bachelor's route. Any site telling you otherwise is wrong."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "11-15",
+        "confidence": "typical",
+        "note": "Country-specific deadlines run roughly September to December through Swiss embassies. Irrelevant at bachelor level - noted for your postgraduate planning."
+      },
+      "opens": {
+        "month_day": "08-01",
+        "note": "Varies by country."
+      },
+      "how_to_apply": [
+        "Not applicable at bachelor level."
+      ],
+      "links": [
+        {
+          "label": "SBFI - Swiss Government Excellence Scholarships (official)",
+          "url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships"
+        },
+        {
+          "label": "SBFI - scholarships at a glance",
+          "url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships"
+      ],
+      "warnings": [
+        "Postgraduate only. The tracker watches the federal page and will flag any change."
+      ],
+      "sources": [
+        "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "ch-usi-informatics-merit",
+      "country": "switzerland",
+      "name": "USI Faculty of Informatics merit scholarships (Bachelor in Informatics)",
+      "provider": "Universita della Svizzera italiana, Lugano",
+      "verdict": "partial",
+      "priority": 1,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering"
+      ],
+      "language": "English",
+      "funding": {
+        "tier": "partial",
+        "items": [
+          "Around 30 scholarships of CHF 4,000 each for first-year Bachelor in Informatics students, open to applicants resident abroad",
+          "Additional named awards such as the Arnoldo Bettelini scholarship, up to CHF 4,000",
+          "USI Equal Opportunities grant of CHF 4,000 for bachelor students"
+        ],
+        "not_covered": [
+          "Living costs in Switzerland, which run roughly CHF 21,000 to 28,000 per year - CHF 4,000 does not come close",
+          "Full tuition, though USI tuition is comparatively low at around CHF 4,000 per year for non-Swiss students"
+        ]
+      },
+      "palestine": {
+        "status": "nationality-blind",
+        "note": "Awarded on merit to first-year Informatics students including those resident abroad, with no nationality bar. This is the best undergraduate computing option in Switzerland - but it is partial aid, not a fully funded scholarship. You would need to prove you can cover living costs for the visa."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "04-30",
+        "confidence": "estimate",
+        "note": "Tied to the USI bachelor admission deadline, which for non-EU applicants typically falls in spring for the September intake. Confirm the exact date on the USI fees and grants page - the tracker watches it."
+      },
+      "opens": {
+        "month_day": "11-01",
+        "note": "Admissions open in autumn for the following September."
+      },
+      "how_to_apply": [
+        "Apply for admission to the BSc in Informatics at USI - non-EU applicants have earlier deadlines.",
+        "Merit scholarships are assessed from the admission file; check the fees and grants page for any separate form.",
+        "Plan your living-cost proof separately - this is the part that decides whether the option is real for you."
+      ],
+      "links": [
+        {
+          "label": "USI - Bachelor in Informatics, tuition and scholarships",
+          "url": "https://www.usi.ch/en/education/bachelor/informatics/fees-and-grants"
+        },
+        {
+          "label": "USI - bachelor fees and grants (all faculties)",
+          "url": "https://www.usi.ch/en/education/bachelor/fees-and-grants"
+        },
+        {
+          "label": "USI - Faculty of Informatics",
+          "url": "https://www.inf.usi.ch/en"
+        }
+      ],
+      "emails": [
+        {
+          "label": "USI Faculty of Informatics",
+          "address": "decanato.inf@usi.ch",
+          "verified": false
+        }
+      ],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "Bachelor of Science in Informatics",
+          "university": "Universita della Svizzera italiana (USI)",
+          "city": "Lugano",
+          "duration": "3 years (36 months)",
+          "language": "English",
+          "url": "https://www.usi.ch/en/education/bachelor/informatics",
+          "site": "https://www.usi.ch/en",
+          "field": [
+            "computer-engineering"
+          ]
+        }
+      ],
+      "watch": [
+        "https://www.usi.ch/en/education/bachelor/informatics/fees-and-grants"
+      ],
+      "warnings": [
+        "Partial funding only. Do not build a plan around this unless you have another source for living costs.",
+        "Switzerland requires proof of sufficient funds for the student visa - typically CHF 21,000+ blocked or attested per year."
+      ],
+      "sources": [
+        "https://www.usi.ch/en/education/bachelor/informatics/fees-and-grants",
+        "https://www.usi.ch/en/education/bachelor/fees-and-grants"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "ch-eth-financial-aid",
+      "country": "switzerland",
+      "name": "ETH Zurich financial aid and Solidarity Fund",
+      "provider": "ETH Zurich Financial Aid Office",
+      "verdict": "residency-required",
+      "priority": 5,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics"
+      ],
+      "language": "German (bachelor teaching is in German)",
+      "funding": {
+        "tier": "partial",
+        "items": [
+          "Scholarships and bursaries towards living costs",
+          "Tuition fee reductions",
+          "Solidarity Fund for Foreign Students - hardship support"
+        ],
+        "not_covered": [
+          "The full cost of living and studying - ETH states this explicitly"
+        ]
+      },
+      "palestine": {
+        "status": "conditional",
+        "note": "ETH bachelor students may only apply for financial aid after passing the first-year Basispruefung, and ETH's own guidelines assume the applicant is resident in Switzerland. ETH advises international students to secure funding in their home country before coming. In practice this is not an entry-route scholarship - it is a safety net for students already enrolled."
+      },
+      "deadline": {
+        "kind": "rolling",
+        "confidence": "typical",
+        "note": "Applications via eSTIP, tied to semester deadlines once you are enrolled."
+      },
+      "opens": {
+        "month_day": "",
+        "note": ""
+      },
+      "how_to_apply": [
+        "Not available before enrolment and before passing the first-year exam."
+      ],
+      "links": [
+        {
+          "label": "ETH Zurich - information for international students on costs",
+          "url": "https://ethz.ch/students/en/studies/financial/scholarships/cost-of-living/international-students.html"
+        },
+        {
+          "label": "ETH Zurich - scholarships for cost of living",
+          "url": "https://ethz.ch/students/en/studies/financial/scholarships/cost-of-living.html"
+        },
+        {
+          "label": "ETH Zurich - Solidarity Fund for Foreign Students",
+          "url": "https://ethz.ch/students/en/studies/financial/solidarity-fund.html"
+        },
+        {
+          "label": "ETH Zurich - scholarship guidelines (PDF)",
+          "url": "https://ethz.ch/content/dam/ethz/main/education/finanzielles/files-en/guidelines-scholarships.pdf"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "BSc Computer Science (Informatik)",
+          "university": "ETH Zurich",
+          "city": "Zurich",
+          "duration": "3 years",
+          "language": "German",
+          "url": "https://inf.ethz.ch/studies/bachelor.html",
+          "site": "https://ethz.ch/en.html",
+          "field": [
+            "computer-engineering"
+          ]
+        },
+        {
+          "degree": "BSc Mechanical Engineering (mechatronics specialisation from year 3)",
+          "university": "ETH Zurich",
+          "city": "Zurich",
+          "duration": "3 years",
+          "language": "German",
+          "url": "https://mavt.ethz.ch/studies/bachelor.html",
+          "site": "https://ethz.ch/en.html",
+          "field": [
+            "mechatronics"
+          ]
+        }
+      ],
+      "watch": [
+        "https://ethz.ch/students/en/studies/financial/scholarships/cost-of-living/international-students.html"
+      ],
+      "warnings": [
+        "ETH bachelor teaching is in German. You would need a C1-level German certificate on top of everything else.",
+        "No aid available in year one, and residence is assumed."
+      ],
+      "sources": [
+        "https://ethz.ch/students/en/studies/financial/scholarships/cost-of-living/international-students.html",
+        "https://ethz.ch/content/dam/ethz/main/education/finanzielles/files-en/guidelines-scholarships.pdf"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "ch-cantonal-and-integration",
+      "country": "switzerland",
+      "name": "Cantonal grants and refugee integration programmes (Horizon Academique and similar)",
+      "provider": "Cantonal education offices; UNIGE and other universities",
+      "verdict": "residency-required",
+      "priority": 6,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "German, French, Italian",
+      "funding": {
+        "tier": "varies",
+        "items": [
+          "Cantonal study grants (Stipendien / bourses d'etudes) covering fees and part of living costs",
+          "University integration programmes providing language training and a route into a degree"
+        ],
+        "not_covered": []
+      },
+      "palestine": {
+        "status": "conditional",
+        "note": "These are the only Swiss routes that reach anything like full funding at bachelor level, and every one of them requires that you are already living in Switzerland - a settlement or residence permit for cantonal grants, or recognised asylum / protection status for the integration programmes. They are not accessible from Palestine."
+      },
+      "deadline": {
+        "kind": "varies",
+        "confidence": "typical",
+        "note": "Set by each canton and each university, usually in spring."
+      },
+      "opens": {
+        "month_day": "",
+        "note": ""
+      },
+      "how_to_apply": [
+        "Only relevant if your residence status in Switzerland changes."
+      ],
+      "links": [
+        {
+          "label": "Swiss cantonal scholarship offices (official directory)",
+          "url": "https://www.edk.ch/de/themen/stipendien"
+        },
+        {
+          "label": "UNIGE - Horizon Academique",
+          "url": "https://www.unige.ch/horizon-academique/"
+        },
+        {
+          "label": "swissuniversities - study in Switzerland",
+          "url": "https://www.swissuniversities.ch/en/"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://www.edk.ch/de/themen/stipendien"
+      ],
+      "warnings": [
+        "Residence requirement is absolute. Included for completeness and so the page is honest about why Switzerland is thin."
+      ],
+      "sources": [
+        "https://www.edk.ch/de/themen/stipendien"
+      ],
+      "last_verified": "2026-08-29"
+    },
+    {
+      "id": "gr-mfa-undergraduate",
+      "country": "greece",
+      "name": "Hellenic MFA Undergraduate Scholarship for Palestinians and Jerusalemites",
+      "provider": "Hellenic Ministry of Foreign Affairs, via the Consulate General of Greece in Jerusalem",
+      "verdict": "eligible",
+      "priority": 1,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "Greek (preparatory course provided)",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "EUR 650 per month stipend for each of the three scholarships awarded",
+          "A free preparatory Greek-language course of up to 8 months for non-Greek speakers before the degree starts",
+          "Placement at a Greek public university"
+        ],
+        "not_covered": [
+          "Flights",
+          "Visa costs",
+          "Costs beyond the monthly stipend"
+        ]
+      },
+      "palestine": {
+        "status": "palestine-only",
+        "note": "Written specifically for Palestinian nationals and Jerusalemites. Only three scholarships are awarded per year, so competition for those three places is real - but the eligibility itself is unconditional for any Palestinian applicant who applies through the Jerusalem consulate."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "09-08",
+        "confidence": "typical",
+        "note": "The 2025/26 round's applications were due 8 September. Confirm the exact date each year on the MFA page - the daily updater watches it."
+      },
+      "opens": {
+        "month_day": "06-01",
+        "note": "Applications typically open in early summer."
+      },
+      "how_to_apply": [
+        "Watch the Hellenic MFA scholarships page for the year's announcement and the attached table of participating faculties.",
+        "Complete the application form and submit it in person at the Consulate General of Greece in Jerusalem with the required supporting documents, officially translated into Greek and validated by the Consulate.",
+        "List up to three university departments of preference from the faculty table - confirm computer engineering or a mechatronics-adjacent faculty is listed that year before applying.",
+        "Attend an interview at the Consulate General of Greece in Jerusalem.",
+        "If selected and not already fluent, complete the Greek-language preparatory course before starting the degree."
+      ],
+      "links": [
+        {
+          "label": "Hellenic MFA - undergraduate scholarships announcement",
+          "url": "https://www.mfa.gr/en/undergraduate-scholarships-in-greece-offered-by-the-hellenic-ministry-of-foreign-affairs-for-the-academic-year-2025-2026/"
+        },
+        {
+          "label": "Consulate General of Greece in Jerusalem - scholarship news",
+          "url": "https://www.mfa.gr/missionsabroad/en/jerusalem-en/news/greece-is-offering-three-scholarships-for-studies-in-greek-universities-for-the-academic-year-2025-2026.html"
+        },
+        {
+          "label": "IKY - Greek State Scholarships Foundation",
+          "url": "https://www.iky.gr/en/scholarships/"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://www.mfa.gr/en/undergraduate-scholarships-in-greece-offered-by-the-hellenic-ministry-of-foreign-affairs-for-the-academic-year-2025-2026/",
+        "https://www.mfa.gr/missionsabroad/en/jerusalem-en/news/greece-is-offering-three-scholarships-for-studies-in-greek-universities-for-the-academic-year-2025-2026.html"
+      ],
+      "warnings": [
+        "Only three scholarships are awarded a year across all fields of study - this is a small, competitive programme, not a broad national scheme.",
+        "The list of faculties on offer changes year to year. Confirm computer engineering or a mechatronics-related faculty is actually on that year's table before you build a plan around it."
+      ],
+      "sources": [
+        "https://www.mfa.gr/en/undergraduate-scholarships-in-greece-offered-by-the-hellenic-ministry-of-foreign-affairs-for-the-academic-year-2025-2026/",
+        "https://www.mfa.gr/missionsabroad/en/jerusalem-en/news/greece-is-offering-three-scholarships-for-studies-in-greek-universities-for-the-academic-year-2025-2026.html"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "cy-ucy-gaza-postgrad",
+      "country": "cyprus",
+      "name": "University of Cyprus Gaza Scholarships",
+      "provider": "University of Cyprus",
+      "verdict": "not-bachelor",
+      "priority": 9,
+      "level": [
+        "master",
+        "postgraduate"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "English",
+      "funding": {
+        "tier": "partial",
+        "items": [
+          "Tuition fee waiver, mainly for programmes offering distance learning"
+        ],
+        "not_covered": []
+      },
+      "palestine": {
+        "status": "not-applicable-at-this-level",
+        "note": "The University of Cyprus Council has approved a small number of tuition-waiver scholarships for students of Gaza universities - but these are aimed mainly at postgraduate programmes with a distance-learning option. Listed here so you do not spend an application cycle on it expecting a bachelor's route; there isn't one through this specific programme."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "06-01",
+        "confidence": "estimate",
+        "note": "Tied to the Fall semester admission cycle; exact date not published in a way that could be confirmed. Check directly with the University of Cyprus Graduate School."
+      },
+      "opens": {
+        "month_day": "03-01",
+        "note": "Spring, ahead of the Fall semester."
+      },
+      "how_to_apply": [
+        "Not applicable at bachelor level."
+      ],
+      "links": [
+        {
+          "label": "University of Cyprus - Graduate School scholarships",
+          "url": "https://www.ucy.ac.cy/graduateschool/home/scholarships/?lang=en"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://www.ucy.ac.cy/graduateschool/home/scholarships/?lang=en"
+      ],
+      "warnings": [
+        "Postgraduate only. The tracker watches this page and will flag it if a bachelor-level round ever opens."
+      ],
+      "sources": [
+        "https://www.ucy.ac.cy/graduateschool/home/scholarships/?lang=en"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "cy-state-scholarship-foundation",
+      "country": "cyprus",
+      "name": "Cyprus State Scholarship Foundation (IKYK) undergraduate award",
+      "provider": "Cyprus State Scholarship Foundation",
+      "verdict": "partial",
+      "priority": 2,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "Greek (public universities); English at some private ones",
+      "funding": {
+        "tier": "partial",
+        "items": [
+          "Up to EUR 3,000 per year for first-cycle (undergraduate) study, assessed on academic performance"
+        ],
+        "not_covered": [
+          "The rest of tuition and living costs at whichever university you attend"
+        ]
+      },
+      "palestine": {
+        "status": "nationality-blind",
+        "note": "Explicitly open to Cypriot, EU and third-country students - Palestinian applicants are not excluded by nationality. It was not designed with an applicant living outside Cyprus in mind, though, and EUR 3,000 a year is a contribution, not a living budget."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "03-18",
+        "confidence": "typical",
+        "note": "The 2025 round opened applications in March. Confirm the exact date on the gov.cy portal each year."
+      },
+      "opens": {
+        "month_day": "03-01",
+        "note": "Spring."
+      },
+      "how_to_apply": [
+        "Apply through the gov.cy state scholarship service once you have or are pursuing admission to a Cypriot university."
+      ],
+      "links": [
+        {
+          "label": "Apply for a state scholarship - gov.cy",
+          "url": "https://www.gov.cy/en/service/apply-for-a-state-scholarship-for-studies-2/"
+        },
+        {
+          "label": "State Scholarship Foundation - overview",
+          "url": "https://www.european-funding-guide.eu/scholarship/9920-state-scholarship-foundation-cyprus-scholarships"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://www.gov.cy/en/service/apply-for-a-state-scholarship-for-studies-2/"
+      ],
+      "warnings": [
+        "Modest amount against real costs - treat as a supplement if you already have another route into a Cypriot university, not a way to get admitted."
+      ],
+      "sources": [
+        "https://www.gov.cy/en/service/apply-for-a-state-scholarship-for-studies-2/",
+        "https://www.european-funding-guide.eu/scholarship/9920-state-scholarship-foundation-cyprus-scholarships"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "cy-ciu-automatic-scholarship",
+      "country": "cyprus",
+      "name": "Cyprus International University automatic and merit scholarships",
+      "provider": "Cyprus International University (TRNC)",
+      "verdict": "partial",
+      "priority": 3,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics"
+      ],
+      "language": "English",
+      "funding": {
+        "tier": "partial",
+        "items": [
+          "Automatic 50% tuition scholarship for every admitted international undergraduate",
+          "Merit academic scholarships up to 100% of tuition for strong academic records"
+        ],
+        "not_covered": [
+          "Living costs",
+          "The remaining tuition unless you win the full merit award"
+        ]
+      },
+      "palestine": {
+        "status": "palestine-included",
+        "note": "CIU names Palestine among the nationalities eligible for its scholarships. The automatic award is half-price, not free - only the separately-assessed merit scholarship can reach 100%."
+      },
+      "deadline": {
+        "kind": "rolling",
+        "confidence": "typical",
+        "note": "Admission and scholarship assessment run on a rolling basis tied to intake dates."
+      },
+      "opens": {
+        "month_day": "",
+        "note": ""
+      },
+      "how_to_apply": [
+        "Apply for admission through CIU's international office; the automatic scholarship applies at enrolment, and merit awards are assessed from your academic record."
+      ],
+      "links": [
+        {
+          "label": "CIU - fees and scholarships",
+          "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "BSc Computer Engineering",
+          "university": "Cyprus International University",
+          "city": "Nicosia (TRNC)",
+          "duration": "4 years",
+          "language": "English",
+          "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+          "site": "https://ciu.edu.tr/en"
+        },
+        {
+          "degree": "BSc Mechatronics Engineering",
+          "university": "Cyprus International University",
+          "city": "Nicosia (TRNC)",
+          "duration": "4 years",
+          "language": "English",
+          "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+          "site": "https://ciu.edu.tr/en"
+        }
+      ],
+      "watch": [
+        "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships"
+      ],
+      "warnings": [
+        "CIU sits in the Turkish Republic of Northern Cyprus, a jurisdiction only Turkey recognises as a state. This carries real, practical complications - degree recognition in some countries, banking, and travel routes in and out - that a university in the internationally-recognised Republic of Cyprus would not. Research this thoroughly, including how your specific country treats TRNC-issued degrees, before committing.",
+        "The automatic award is 50% off, not fully funded. Only the separately-assessed merit scholarship can reach full tuition, and it is competitive."
+      ],
+      "sources": [
+        "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "fr-excellence-gaza",
+      "country": "france",
+      "name": "France Excellence Scholarship Programme for Students from Gaza",
+      "provider": "French Ministry for Europe and Foreign Affairs, via Campus France",
+      "verdict": "eligible",
+      "priority": 1,
+      "level": [
+        "bachelor",
+        "master",
+        "phd"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "French (some placements may vary)",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "EUR 860 per month allowance for bachelor's (licence), master's and DU passerelle bridge-year students",
+          "A return flight for students located in Egypt, plus transport to the study city",
+          "Health insurance and social security coverage",
+          "Help finding accommodation, including CROUS student housing"
+        ],
+        "not_covered": []
+      },
+      "palestine": {
+        "status": "palestine-only",
+        "note": "Written specifically for Palestinian nationals who were enrolled in a Gaza university in 2023/2024 and/or resident in Gaza until at least September 2023, and who are now in Egypt or France. It funds licence years 2 and 3 (the bachelor's years), not just postgraduate study - a rarity among the France-wide scholarship schemes, which are almost all master's and PhD only."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "08-16",
+        "time": "18:00 (Paris time)",
+        "confidence": "estimate",
+        "note": "The confirmed call ran for the 2024/25 academic year with an application deadline of 16 August 2024. No announcement of a 2025/26 or 2026/27 renewal has been found - check the Campus France page directly before relying on this date; the daily updater watches it and will flag any change."
+      },
+      "opens": {
+        "month_day": "06-01",
+        "note": "The 2024 call opened in summer; treat as indicative only."
+      },
+      "how_to_apply": [
+        "Watch the Campus France Gaza scholarship page for confirmation the current cycle is open.",
+        "Prepare a clear, well-developed academic and professional project statement.",
+        "Submit the complete application by email to programmegaza.ddc-esr@diplomatie.gouv.fr with the subject line: NAME Surname - Application - Scholarship."
+      ],
+      "links": [
+        {
+          "label": "Campus France - France Excellence scholarship for Gaza students",
+          "url": "https://www.campusfrance.org/en/actu/france-excellence-scholarship-students-gaza"
+        },
+        {
+          "label": "Campus France - calls for applications",
+          "url": "https://www.campusfrance.org/en/recherche/theme/calls-for-applications-344"
+        }
+      ],
+      "emails": [
+        {
+          "label": "Programme Gaza application address",
+          "address": "programmegaza.ddc-esr@diplomatie.gouv.fr",
+          "verified": true
+        }
+      ],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://www.campusfrance.org/en/actu/france-excellence-scholarship-students-gaza"
+      ],
+      "warnings": [
+        "The only confirmed round was for 2024/25. Treat every date here as a pattern from that round, not a published date for the year you apply - confirm on the Campus France page first.",
+        "Eligibility is tied to a specific residence and enrolment history in Gaza before September 2023. Read the criteria carefully before applying."
+      ],
+      "sources": [
+        "https://www.campusfrance.org/en/actu/france-excellence-scholarship-students-gaza",
+        "https://fundsforindividuals.fundsforngos.org/scholarships/france-excellence-scholarship-programme-for-students-from-gaza-palestine/"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "de-public-university-tuition-free",
+      "country": "germany",
+      "name": "Tuition-free bachelor study at German public universities",
+      "provider": "German federal and state governments (structural fee policy, not a competitive scholarship)",
+      "verdict": "eligible",
+      "priority": 1,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics"
+      ],
+      "language": "Mostly German; a minority of English-taught bachelor's exist",
+      "funding": {
+        "tier": "partial",
+        "items": [
+          "EUR 0 tuition for the whole bachelor's degree at any of Germany's 400+ public universities, for every nationality",
+          "A semester contribution of roughly EUR 200-400 covering administration and usually a public transport pass"
+        ],
+        "not_covered": [
+          "Living costs - rent, food, insurance, everything day to day",
+          "The German student visa requires proof you can cover this yourself: a blocked account (Sperrkonto) holding roughly EUR 11,904 for the year, released at about EUR 992 a month",
+          "Baden-Wurttemberg is the one state that charges non-EU students tuition, roughly EUR 1,500 per semester"
+        ]
+      },
+      "palestine": {
+        "status": "nationality-blind",
+        "note": "This is not a scholarship you can be rejected from - it is how German public university fees work for everyone, Palestinian applicants included. The real barrier is proving you can fund living costs for the visa, not tuition."
+      },
+      "deadline": {
+        "kind": "varies",
+        "confidence": "typical",
+        "note": "University admission deadlines vary widely - roughly 15 January and 15 July for the two main intakes at most public universities, earlier for some subjects via uni-assist. This is not a scholarship deadline, it is the ordinary application calendar."
+      },
+      "opens": {
+        "month_day": "",
+        "note": ""
+      },
+      "how_to_apply": [
+        "Choose a public university and bachelor's programme in computer science/engineering or mechatronics - most are German-taught, so confirm the language and your proficiency (B2-C1) before applying.",
+        "Apply for admission directly or via uni-assist, depending on the university.",
+        "Once admitted, open a blocked account and fund it to the current required amount as part of your visa application - do this early, it takes time.",
+        "After enrolling, apply for the Deutschlandstipendium and any other university-specific aid to help with the living-cost gap."
+      ],
+      "links": [
+        {
+          "label": "Blocked account requirement - official guidance",
+          "url": "https://www.study.eu/article/germany-blocked-bank-accounts-for-students-guide"
+        },
+        {
+          "label": "DAAD - study in Germany overview",
+          "url": "https://www.daad.de/en/"
+        },
+        {
+          "label": "uni-assist - centralised application service",
+          "url": "https://www.uni-assist.de/en/"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://www.study.eu/article/germany-blocked-bank-accounts-for-students-guide"
+      ],
+      "warnings": [
+        "Language is the real gate, not money. Most public bachelor's in engineering and computer science are taught in German at B2-C1 level - budget a year for a language course (a Studienkolleg or private course) if you do not already have this.",
+        "The blocked-account figure changes yearly - confirm the current amount before you plan your budget around it."
+      ],
+      "sources": [
+        "https://www.study.eu/article/germany-blocked-bank-accounts-for-students-guide",
+        "https://www.mygermanuniversity.com/articles/tuition-free-universities-in-germany"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "de-daad-bridge-palestinians",
+      "country": "germany",
+      "name": "DAAD Bridge Scholarships for Palestinians in Germany",
+      "provider": "German Academic Exchange Service (DAAD), funded by the Federal Foreign Office",
+      "verdict": "eligible-conditional",
+      "priority": 6,
+      "level": [
+        "bachelor",
+        "master",
+        "phd"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "German or English depending on host university",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "EUR 934 per month for bachelor's or master's students, EUR 1,300 for doctoral candidates",
+          "Paid for a minimum of one month and a maximum of four months"
+        ],
+        "not_covered": [
+          "Anything beyond the four-month bridging window"
+        ]
+      },
+      "palestine": {
+        "status": "explicit-conditional",
+        "note": "This is emergency bridging support for Palestinians who are already enrolled as bachelor's or master's students (or accepted as doctoral candidates) at a German university and cannot return home - it is not a way to get admitted or start a degree from abroad. If you are not already studying in Germany, this does not apply to you yet; look at the tuition-free public university route instead."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "10-15",
+        "confidence": "estimate",
+        "note": "The most recently confirmed round closed 15 October. DAAD opens new rounds in response to need rather than a fixed annual calendar - contact them directly to check whether a round is currently open."
+      },
+      "opens": {
+        "month_day": "",
+        "note": ""
+      },
+      "how_to_apply": [
+        "Contact DAAD directly to check whether a current round is open, and apply through your German university's international office."
+      ],
+      "links": [
+        {
+          "label": "RWTH Aachen - Bridge Scholarships for Palestinians",
+          "url": "https://www.rwth-aachen.de/go/id/bjnnjx?lidx=1&mobile=1"
+        },
+        {
+          "label": "University of Freiburg - Bridge Scholarships for Palestinians",
+          "url": "https://www.international.uni-freiburg.de/en/calls/researchers-and-teachers/bridge-scholarships-for-palestinians-in-germany"
+        }
+      ],
+      "emails": [
+        {
+          "label": "DAAD - Palestinians programme desk",
+          "address": "palestinians@daad.de",
+          "verified": false
+        }
+      ],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://www.rwth-aachen.de/go/id/bjnnjx?lidx=1&mobile=1"
+      ],
+      "warnings": [
+        "Only for Palestinians already studying in Germany. Does not help you get admitted from abroad."
+      ],
+      "sources": [
+        "https://www.rwth-aachen.de/go/id/bjnnjx?lidx=1&mobile=1",
+        "https://www.international.uni-freiburg.de/en/calls/researchers-and-teachers/bridge-scholarships-for-palestinians-in-germany"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "de-deutschlandstipendium",
+      "country": "germany",
+      "name": "Deutschlandstipendium",
+      "provider": "German Federal Government, matched by private sponsors, administered per university",
+      "verdict": "eligible",
+      "priority": 4,
+      "level": [
+        "bachelor",
+        "master"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "Depends on your programme",
+      "funding": {
+        "tier": "partial",
+        "items": [
+          "EUR 300 per month, for up to two semesters at a time (renewable)"
+        ],
+        "not_covered": [
+          "Most of your living costs - this is a supplement, not a living budget"
+        ]
+      },
+      "palestine": {
+        "status": "nationality-blind",
+        "note": "Open to students of every nationality, awarded on merit and civic engagement rather than income. You can only apply once you are fully enrolled - it is a supplement to the tuition-free system above, not a way to get admitted."
+      },
+      "deadline": {
+        "kind": "varies",
+        "confidence": "typical",
+        "note": "Each university sets its own deadline, typically in spring or early summer once you are already enrolled."
+      },
+      "opens": {
+        "month_day": "",
+        "note": ""
+      },
+      "how_to_apply": [
+        "Once enrolled, apply directly through your university's Deutschlandstipendium office - procedures vary by institution."
+      ],
+      "links": [
+        {
+          "label": "Deutschlandstipendium - programme overview",
+          "url": "https://www.gradgermany.com/scholarships-germany/deutschlandstipendium"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [],
+      "warnings": [],
+      "sources": [
+        "https://www.gradgermany.com/scholarships-germany/deutschlandstipendium"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "ae-khalifa-university-scholarship",
+      "country": "uae",
+      "name": "Khalifa University Merit Scholarship (Tier I)",
+      "provider": "Khalifa University of Science and Technology",
+      "verdict": "eligible",
+      "priority": 1,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics"
+      ],
+      "language": "English",
+      "funding": {
+        "tier": "partial",
+        "items": [
+          "Tier I: full tuition coverage for the bachelor's degree, plus textbooks"
+        ],
+        "not_covered": [
+          "Living costs, accommodation and a confirmed cash stipend - not stated as included"
+        ]
+      },
+      "palestine": {
+        "status": "nationality-blind",
+        "note": "Open to applicants from 225 nationalities; Palestine is not excluded. Scholarships are assessed automatically from your admission application - academic merit decides your tier, and meeting the minimum criteria does not guarantee an award."
+      },
+      "deadline": {
+        "kind": "rolling",
+        "confidence": "typical",
+        "note": "No separate scholarship deadline - it is assessed as part of the standard admission cycle, which runs on its own rounds through the year."
+      },
+      "opens": {
+        "month_day": "",
+        "note": ""
+      },
+      "how_to_apply": [
+        "Apply for undergraduate admission to Khalifa University - there is no separate scholarship form, your admission file is used to assess your scholarship tier."
+      ],
+      "links": [
+        {
+          "label": "Khalifa University - undergraduate scholarships (official)",
+          "url": "https://www.ku.ac.ae/scholarships-undergraduate"
+        },
+        {
+          "label": "Khalifa University - admissions catalogue",
+          "url": "https://ku-ae.smartcatalogiq.com/en/2025-2026/undergraduate-catalog/undergraduate-admissions-and-scholarships"
+        }
+      ],
+      "emails": [
+        {
+          "label": "Khalifa University - scholarship unit",
+          "address": "scholarship.unit@ku.ac.ae",
+          "verified": true
+        }
+      ],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "BSc Computer Science",
+          "university": "Khalifa University",
+          "city": "Abu Dhabi",
+          "duration": "4 years",
+          "language": "English",
+          "url": "https://www.ku.ac.ae/scholarships-undergraduate",
+          "site": "https://www.ku.ac.ae/"
+        },
+        {
+          "degree": "BSc Mechanical Engineering",
+          "university": "Khalifa University",
+          "city": "Abu Dhabi",
+          "duration": "4 years",
+          "language": "English",
+          "url": "https://www.ku.ac.ae/scholarships-undergraduate",
+          "site": "https://www.ku.ac.ae/"
+        }
+      ],
+      "watch": [
+        "https://www.ku.ac.ae/scholarships-undergraduate"
+      ],
+      "warnings": [
+        "No living stipend is confirmed - you would need to fund accommodation and daily costs yourself, or secure that support separately, on top of a UAE student visa's own requirements."
+      ],
+      "sources": [
+        "https://www.bachelorsportal.com/scholarships/157/khalifa-university-scholarship.html"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "ae-aus-financial-grants",
+      "country": "uae",
+      "name": "American University of Sharjah Financial Grants and Scholarships",
+      "provider": "American University of Sharjah",
+      "verdict": "partial",
+      "priority": 3,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "computer-engineering",
+        "mechatronics"
+      ],
+      "language": "English",
+      "funding": {
+        "tier": "partial",
+        "items": [
+          "Partial tuition grants and merit scholarships for international undergraduate applicants"
+        ],
+        "not_covered": [
+          "Full tuition - described by AUS as partial funding, not a full-ride"
+        ]
+      },
+      "palestine": {
+        "status": "nationality-blind",
+        "note": "Open to international applicants generally; not restricted by nationality, but not Palestine-specific and not a full scholarship."
+      },
+      "deadline": {
+        "kind": "varies",
+        "confidence": "typical",
+        "note": "Tied to AUS's undergraduate admission rounds, which run across the year - check the current cycle directly."
+      },
+      "opens": {
+        "month_day": "",
+        "note": ""
+      },
+      "how_to_apply": [
+        "Apply for undergraduate admission to AUS; scholarship and grant eligibility is assessed as part of the same application."
+      ],
+      "links": [
+        {
+          "label": "AUS - financial aid and scholarships",
+          "url": "https://www.aus.edu/admissions/financial-aid"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [
+        {
+          "degree": "BSc Computer Engineering",
+          "university": "American University of Sharjah",
+          "city": "Sharjah",
+          "duration": "4 years",
+          "language": "English",
+          "url": "https://www.aus.edu/admissions/financial-aid",
+          "site": "https://www.aus.edu/"
+        }
+      ],
+      "watch": [
+        "https://www.aus.edu/admissions/financial-aid"
+      ],
+      "warnings": [
+        "Partial funding only, by the university's own description - do not treat this as a full-ride."
+      ],
+      "sources": [
+        "https://leverageedu.com/learn/fully-funded-scholarships-in-uae-for-international-students/"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "ae-palestinian-embassy-programme",
+      "country": "uae",
+      "name": "Palestinian Embassy (Abu Dhabi) student scholarship programme",
+      "provider": "Embassy of the State of Palestine, Abu Dhabi",
+      "verdict": "eligible-conditional",
+      "priority": 2,
+      "level": [
+        "bachelor"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "English (at the participating universities)",
+      "funding": {
+        "tier": "varies",
+        "items": [
+          "Historically covered enrolment for Palestinian students across a range of UAE universities and colleges"
+        ],
+        "not_covered": []
+      },
+      "palestine": {
+        "status": "palestine-only",
+        "note": "A Palestine-specific community scholarship scheme run by the Palestinian Embassy in Abu Dhabi, documented supporting around 156 students in one reported round across UAE universities and colleges including UAE University, Al Ain University, and others. The only confirmed reporting found is several years old - current status is unverified. Contact the embassy directly before counting on this."
+      },
+      "deadline": {
+        "kind": "unknown",
+        "confidence": "estimate",
+        "note": "No current-cycle deadline could be confirmed. Contact the Embassy of the State of Palestine in Abu Dhabi directly to ask whether the programme is currently running."
+      },
+      "opens": {
+        "month_day": "",
+        "note": ""
+      },
+      "how_to_apply": [
+        "Contact the Embassy of the State of Palestine in Abu Dhabi directly to ask about current eligibility and whether a round is open."
+      ],
+      "links": [
+        {
+          "label": "The National - original reporting on the programme",
+          "url": "https://www.thenationalnews.com/uae/education/palestinians-promote-university-scholarship-programme-1.489156"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [],
+      "warnings": [
+        "Could not confirm this programme is still running in the current cycle - the only solid reporting found predates 2022. Treat this as a lead to chase directly with the embassy, not a confirmed open scholarship."
+      ],
+      "sources": [
+        "https://www.thenationalnews.com/uae/education/palestinians-promote-university-scholarship-programme-1.489156"
+      ],
+      "last_verified": "2026-08-30"
+    },
+    {
+      "id": "pl-nawa-banach",
+      "country": "poland",
+      "name": "Stefan Banach NAWA Programme",
+      "provider": "Polish National Agency for Academic Exchange (NAWA)",
+      "verdict": "not-bachelor",
+      "priority": 9,
+      "level": [
+        "master"
+      ],
+      "fields": [
+        "all"
+      ],
+      "language": "Polish or English",
+      "funding": {
+        "tier": "full",
+        "items": [
+          "Tuition-free second-cycle (master's) study, plus a monthly stipend"
+        ],
+        "not_covered": []
+      },
+      "palestine": {
+        "status": "not-applicable-at-this-level",
+        "note": "Palestine is listed among the eligible countries under Poland's development-cooperation programme, but Banach funds only second-cycle (master's) studies. NAWA's one bachelor-level programme, General Anders, is restricted to applicants of Polish descent holding a Karta Polaka - not open to a Palestinian applicant without Polish heritage. Listed here so you know to revisit this for a master's rather than a bachelor's."
+      },
+      "deadline": {
+        "kind": "annual",
+        "month_day": "03-15",
+        "confidence": "typical",
+        "note": "NAWA's Banach round has typically closed in March for an October start."
+      },
+      "opens": {
+        "month_day": "01-15",
+        "note": "Call usually opens in January."
+      },
+      "how_to_apply": [
+        "Not applicable at bachelor level."
+      ],
+      "links": [
+        {
+          "label": "NAWA - Banach Scholarship Programme",
+          "url": "https://nawa.gov.pl/en/students/foreign-students/the-banach-scholarship-programme"
+        },
+        {
+          "label": "study.gov.pl - Banach Programme overview",
+          "url": "https://study.gov.pl/stefan-banach-nawa-programme"
+        }
+      ],
+      "emails": [],
+      "phones": [],
+      "programmes": [],
+      "watch": [
+        "https://nawa.gov.pl/en/students/foreign-students/the-banach-scholarship-programme"
+      ],
+      "warnings": [
+        "Master's level only. There is currently no NAWA route to a bachelor's degree for a Palestinian applicant without Polish ancestry."
+      ],
+      "sources": [
+        "https://nawa.gov.pl/en/students/foreign-students/the-banach-scholarship-programme",
+        "https://study.gov.pl/stefan-banach-nawa-programme"
+      ],
+      "last_verified": "2026-08-30"
+    }
+  ]
+}
